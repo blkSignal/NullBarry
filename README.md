@@ -1,4 +1,4 @@
-<h1 align="center">Chai Das</h1>
+<h1 align="center">NullBarry</h1>
 <p align="center">
   <b>Computer Science @ UCLA • Cybersecurity • Software Engineering</b><br/>
   <sub>Exploring offensive and defensive security, building tools, and documenting the process.</sub>
@@ -14,7 +14,7 @@
 ---
 
 ### About Me
-- 🎓 **UCLA Computer Science & Linguistics student** (Class of 2026)  
+- 🎓 **UCLA Computer Science & Linguistics student** (Class of 2027)  
 - 🔐 Passionate about **cybersecurity**, especially network security, penetration testing, and blue team operations  
 - 💻 Building and publishing **security tools** (Python-based analyzers, scanners, IDS prototypes)  
 - 📚 Actively working through **Security+ domains, CTFs, TryHackMe, and HackTheBox**  
