@@ -1,7 +1,7 @@
-<h1 align="center">NullBarry</h1>
+<h1 align="center">Chai Das</h1>
 <p align="center">
-  <b>Cybersecurity • Software • Networks</b><br/>
-  <sub>Building, breaking, and securing systems.</sub>
+  <b>Computer Science @ UCLA • Cybersecurity • Software Engineering</b><br/>
+  <sub>Exploring offensive and defensive security, building tools, and documenting the process.</sub>
 </p>
 
 <p align="center">
@@ -14,21 +14,25 @@
 ---
 
 ### About Me
-- Cybersecurity & IT student focused on **network security and penetration testing**  
-- Exploring both **offensive security** (CTFs, HackTheBox, TryHackMe) and **defensive operations** (IDS, monitoring, automation)  
-- Building and documenting security tools to strengthen fundamentals  
+- 🎓 **UCLA Computer Science & Linguistics student** (Class of 2026)  
+- 🔐 Passionate about **cybersecurity**, especially network security, penetration testing, and blue team operations  
+- 💻 Building and publishing **security tools** (Python-based analyzers, scanners, IDS prototypes)  
+- 📚 Actively working through **Security+ domains, CTFs, TryHackMe, and HackTheBox**  
+- ✍️ Sharing my journey through detailed **writeups** and **Root Cause blog** posts  
 
 ---
 
 ### Current Focus
-- CompTIA Security+ preparation  
-- Network and OS exploitation labs  
-- Automation with Python for security tasks  
+- CompTIA Security+ preparation (CIA, AAA, threat models, IAM, operations)  
+- Hands-on learning via **CTFs, HackTheBox, TryHackMe**  
+- **Python projects** for cybersecurity automation and analysis  
+- Building a portfolio that bridges **academic theory → practical security tools**  
 
 ---
 
 ### Connect
-- 📖 [Blog](https://your-blog-url-here)  
+- 📖 [Root Cause Blog](https://your-blog-url-here)  
 - 📂 [GitHub Projects](https://github.com/NullBarry?tab=repositories)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
 - ✉️ [Email](mailto:your-email@example.com)  
+
