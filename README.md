@@ -13,31 +13,42 @@
 
 ---
 
+<!-- BIO -->
+##� About Me
+I’m **Chai Das**, a Computer Science & Linguistics student at UCLA with a strong interest in **cybersecurity, software development, and networks**.  
+
+My academic path blends **technical problem-solving** with an understanding of **language, systems, and structure**—skills that I apply to building secure software and analyzing digital communication. Through labs, self-initiated projects, and CTF practice, I’m developing both the **theoretical foundations** and the **hands-on experience** needed for modern security and engineering roles.
+
+---
+
 <!-- THREE "CARDS" USING TABLE -->
 <table>
   <tr>
     <td width="33%">
       <h3> Security</h3>
       <ul>
-        <li>Network defense & packet analysis</li>
-        <li>Offense ➜ Defense workflows</li>
-        <li>Security+ prep & labs</li>
+        <li>Network defense & packet analysis (Wireshark, Suricata)</li>
+        <li>Red ➜ Blue team workflows</li>
+        <li>CTFs (HTB, TryHackMe) & Security+ prep</li>
+        <li>Threat modeling & reporting</li>
       </ul>
     </td>
     <td width="34%">
       <h3> Software</h3>
       <ul>
-        <li>Python tooling & CLIs</li>
-        <li>Automation & reporting</li>
-        <li>Tests + CI/CD (Actions)</li>
+        <li>Python tooling, CLIs & automation scripts</li>
+        <li>Bash scripting & Linux sysadmin workflows</li>
+        <li>CI/CD pipelines (GitHub Actions)</li>
+        <li>Data parsing & reporting systems</li>
       </ul>
     </td>
     <td width="33%">
       <h3> Evidence</h3>
       <ul>
-        <li>TryHackMe / HTB writeups</li>
-        <li>Lab notes & blog posts</li>
-        <li>Diagrams & screenshots</li>
+        <li>CTF writeups & solution guides</li>
+        <li>Blog posts on labs & projects</li>
+        <li>Packet flow diagrams & screenshots</li>
+        <li>Research notes & study guides</li>
       </ul>
     </td>
   </tr>
@@ -59,12 +70,12 @@
 
 ---
 
-<!-- FEATURED "CARDS" (EDIT LINKS AS YOU PUBLISH) -->
+<!-- FEATURED "CARDS" -->
 <table>
   <tr>
     <td>
       <h3> Ghoststack</h3>
-      <p>Phishing/email header analyzer with VirusTotal integration. Designed for clear signals (SPF/DKIM/ARC), tests & CI.</p>
+      <p>Phishing/email header analyzer with VirusTotal integration. Extracts SPF/DKIM/ARC results, flags spoofing, and runs in CI.</p>
       <p>
         <a href="https://github.com/NullBarry/ghoststack"><img src="https://img.shields.io/badge/Repo-111827?style=flat&logo=github&logoColor=white"></a>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat">
@@ -75,7 +86,7 @@
   <tr>
     <td>
       <h3> NetScope</h3>
-      <p>Packet analyzer (Scapy). Counts flows, flags anomalies (SYN floods, DNS tunneling), exports JSON.</p>
+      <p>Packet analyzer (Scapy). Tracks flows, detects anomalies (SYN floods, DNS tunneling), exports structured JSON reports.</p>
       <p>
         <a href="https://github.com/NullBarry/netscope"><img src="https://img.shields.io/badge/Repo-111827?style=flat&logo=github&logoColor=white"></a>
         <img src="https://img.shields.io/badge/Scapy-9333EA?style=flat">
@@ -86,7 +97,7 @@
   <tr>
     <td>
       <h3> CTF Writeups</h3>
-      <p>TryHackMe / HackTheBox / picoCTF writeups with Security+ domain mapping and mitigations.</p>
+      <p>Writeups for TryHackMe, HackTheBox, and picoCTF with mappings to Security+ domains and mitigation strategies.</p>
       <p>
         <a href="https://github.com/NullBarry/ctf-writeups"><img src="https://img.shields.io/badge/Repo-111827?style=flat&logo=github&logoColor=white"></a>
         <a href="https://your-blog-url-here"><img src="https://img.shields.io/badge/Blog-2563EB?style=flat&logo=hashnode&logoColor=white"></a>
@@ -97,7 +108,7 @@
 
 ---
 
-<!-- COLLAPSIBLE STATS (OPTIONAL—KEEP IF YOU LIKE) -->
+<!-- COLLAPSIBLE STATS -->
 <details>
   <summary><b>📊 GitHub Stats</b></summary>
   <br/>
