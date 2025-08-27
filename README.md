@@ -17,7 +17,7 @@
 <table>
   <tr>
     <td width="33%">
-      <h3>🔐 Security</h3>
+      <h3> Security</h3>
       <ul>
         <li>Network defense & packet analysis</li>
         <li>Offense ➜ Defense workflows</li>
@@ -25,7 +25,7 @@
       </ul>
     </td>
     <td width="34%">
-      <h3>💻 Software</h3>
+      <h3> Software</h3>
       <ul>
         <li>Python tooling & CLIs</li>
         <li>Automation & reporting</li>
@@ -33,7 +33,7 @@
       </ul>
     </td>
     <td width="33%">
-      <h3>📚 Evidence</h3>
+      <h3> Evidence</h3>
       <ul>
         <li>TryHackMe / HTB writeups</li>
         <li>Lab notes & blog posts</li>
@@ -63,7 +63,7 @@
 <table>
   <tr>
     <td>
-      <h3>🧩 Ghoststack</h3>
+      <h3> Ghoststack</h3>
       <p>Phishing/email header analyzer with VirusTotal integration. Designed for clear signals (SPF/DKIM/ARC), tests & CI.</p>
       <p>
         <a href="https://github.com/NullBarry/ghoststack"><img src="https://img.shields.io/badge/Repo-111827?style=flat&logo=github&logoColor=white"></a>
@@ -74,7 +74,7 @@
   </tr>
   <tr>
     <td>
-      <h3>🌐 NetScope</h3>
+      <h3> NetScope</h3>
       <p>Packet analyzer (Scapy). Counts flows, flags anomalies (SYN floods, DNS tunneling), exports JSON.</p>
       <p>
         <a href="https://github.com/NullBarry/netscope"><img src="https://img.shields.io/badge/Repo-111827?style=flat&logo=github&logoColor=white"></a>
@@ -85,7 +85,7 @@
   </tr>
   <tr>
     <td>
-      <h3>📝 CTF Writeups</h3>
+      <h3> CTF Writeups</h3>
       <p>TryHackMe / HackTheBox / picoCTF writeups with Security+ domain mapping and mitigations.</p>
       <p>
         <a href="https://github.com/NullBarry/ctf-writeups"><img src="https://img.shields.io/badge/Repo-111827?style=flat&logo=github&logoColor=white"></a>
