@@ -1,6 +1,6 @@
-<!-- HEADER -->
+<!-- HERO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:9333EA&height=140&text=Chai%20Das%20|%20NullBarry&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=70&desc=Computer%20Science%20%26%20Linguistics%20@%20UCLA%20%7C%20Cybersecurity%20%7C%20Software%20Engineering&descAlign=50&descAlignY=95" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6EE7F9,100:9333EA&height=140&text=Chai%20Das%20%7C%20NullBarry&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=70&desc=Cybersecurity%20%E2%80%A2%20Software%20%E2%80%A2%20Networks&descAlign=50&descAlignY=95" alt="banner"/>
 </p>
 
 <!-- QUICK LINKS -->
@@ -13,103 +13,93 @@
 
 ---
 
-## About Me
-- I’m **Chai Das**, a **Computer Science & Linguistics student at UCLA (Class of 2026)**.  
-- I work at the intersection of **cybersecurity**, **networks**, and **software**—building tools, running labs, and documenting results with evidence.  
-- Currently focused on **Security+ fundamentals**, **TryHackMe/HackTheBox** labs, and shipping small, well-tested utilities.
-
----
-
-## Focus Areas
+<!-- THREE "CARDS" USING TABLE -->
 <table>
   <tr>
-    <td width="33%"><b>Security Engineering</b></td>
-    <td>Threat modeling, service enumeration, privilege escalation, hardening, log-based detection.</td>
-  </tr>
-  <tr>
-    <td><b>Network Analysis</b></td>
-    <td>Packet inspection (Wireshark/tcpdump), Nmap discovery, Scapy-based analysis, anomaly detection.</td>
-  </tr>
-  <tr>
-    <td><b>Software for Security</b></td>
-    <td>Python CLIs, parsers, report generators, CI/test automation, structured JSON outputs.</td>
-  </tr>
-</table>
-
----
-
-## Skills & Tools
-<table>
-<tr>
-<td width="30%"><b>Programming & Scripting</b></td>
-<td>
-Python (security tooling, automation), C++ (systems fundamentals), Bash (Linux automation), Markdown (technical docs).
-</td>
-</tr>
-
-<tr>
-<td><b>Networking & Traffic</b></td>
-<td>
-Wireshark, tcpdump, Nmap (+NSE), Scapy (packet crafting/parsing), basic flow analysis.
-</td>
-</tr>
-
-<tr>
-<td><b>Offensive & Defensive</b></td>
-<td>
-TryHackMe, HackTheBox, picoCTF; enumeration, brute-forcing, privilege escalation; Snort/Suricata concepts.
-</td>
-</tr>
-
-<tr>
-<td><b>Systems & Platforms</b></td>
-<td>
-Linux (Ubuntu, Kali), Windows admin basics & AD concepts; VMware, Docker for isolated labs.
-</td>
-</tr>
-
-<tr>
-<td><b>Ops & Delivery</b></td>
-<td>
-Git, GitHub Actions (CI), test automation, basic IaC/reproducible environments, structured reporting.
-</td>
-</tr>
-</table>
-
----
-
-## Featured Work
-<table>
-  <tr>
-    <td width="25%"><b>Ghoststack</b></td>
-    <td>
-      Phishing/email header analyzer with VirusTotal integration. Extracts SPF/DKIM/ARC and flags anomalies. Tested and CI-backed.
-      <br>
-      <a href="https://github.com/NullBarry/ghoststack"><img src="https://img.shields.io/badge/View%20Repository-111827?style=flat&logo=github&logoColor=white"></a>
+    <td width="33%">
+      <h3>🔐 Security</h3>
+      <ul>
+        <li>Network defense & packet analysis</li>
+        <li>Offense ➜ Defense workflows</li>
+        <li>Security+ prep & labs</li>
+      </ul>
     </td>
-  </tr>
-  <tr>
-    <td><b>Packetline</b></td>
-    <td>
-      Scapy-based network traffic analyzer. Flow stats, anomaly hints (e.g., SYN floods, DNS tunneling), JSON reports for downstream analysis.
-      <br>
-      <a href="https://github.com/NullBarry/packetline"><img src="https://img.shields.io/badge/View%20Repository-111827?style=flat&logo=github&logoColor=white"></a>
+    <td width="34%">
+      <h3>💻 Software</h3>
+      <ul>
+        <li>Python tooling & CLIs</li>
+        <li>Automation & reporting</li>
+        <li>Tests + CI/CD (Actions)</li>
+      </ul>
     </td>
-  </tr>
-  <tr>
-    <td><b>CTF Writeups</b></td>
-    <td>
-      Structured TryHackMe/HTB/picoCTF writeups. Enumeration → exploitation → privesc → mitigations, with Security+ domain mapping.
-      <br>
-      <a href="https://github.com/NullBarry/ctf-writeups"><img src="https://img.shields.io/badge/View%20Repository-111827?style=flat&logo=github&logoColor=white"></a>
+    <td width="33%">
+      <h3>📚 Evidence</h3>
+      <ul>
+        <li>TryHackMe / HTB writeups</li>
+        <li>Lab notes & blog posts</li>
+        <li>Diagrams & screenshots</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
+<!-- SKILLS BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-222222.svg?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-4A5568.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scapy-9333EA.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Snort/Suricata-ef4444.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</p>
+
+---
+
+<!-- FEATURED "CARDS" (EDIT LINKS AS YOU PUBLISH) -->
+<table>
+  <tr>
+    <td>
+      <h3>🧩 Ghoststack</h3>
+      <p>Phishing/email header analyzer with VirusTotal integration. Designed for clear signals (SPF/DKIM/ARC), tests & CI.</p>
+      <p>
+        <a href="https://github.com/NullBarry/ghoststack"><img src="https://img.shields.io/badge/Repo-111827?style=flat&logo=github&logoColor=white"></a>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat">
+        <img src="https://img.shields.io/badge/CLI-0ea5e9?style=flat">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🌐 NetScope</h3>
+      <p>Packet analyzer (Scapy). Counts flows, flags anomalies (SYN floods, DNS tunneling), exports JSON.</p>
+      <p>
+        <a href="https://github.com/NullBarry/netscope"><img src="https://img.shields.io/badge/Repo-111827?style=flat&logo=github&logoColor=white"></a>
+        <img src="https://img.shields.io/badge/Scapy-9333EA?style=flat">
+        <img src="https://img.shields.io/badge/Network-0ea5e9?style=flat">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>📝 CTF Writeups</h3>
+      <p>TryHackMe / HackTheBox / picoCTF writeups with Security+ domain mapping and mitigations.</p>
+      <p>
+        <a href="https://github.com/NullBarry/ctf-writeups"><img src="https://img.shields.io/badge/Repo-111827?style=flat&logo=github&logoColor=white"></a>
+        <a href="https://your-blog-url-here"><img src="https://img.shields.io/badge/Blog-2563EB?style=flat&logo=hashnode&logoColor=white"></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- COLLAPSIBLE STATS (OPTIONAL—KEEP IF YOU LIKE) -->
 <details>
-  <summary><b>GitHub Stats</b></summary>
+  <summary><b>📊 GitHub Stats</b></summary>
   <br/>
   <p align="center">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=NullBarry&show_icons=true&hide_title=true&hide_border=true" />
@@ -117,7 +107,7 @@ Git, GitHub Actions (CI), test automation, basic IaC/reproducible environments, 
   </p>
 </details>
 
-<!-- FOOTER -->
+<!-- FOOTER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:10B981,100:2563EB&section=footer" />
 </p>
