@@ -32,7 +32,7 @@ My academic path blends technical problem-solving with an understanding of langu
         <li>Threat modeling & reporting</li>
       </ul>
     </td>
-    <td width="34%">
+    <td width="33%">
       <h3> Software</h3>
       <ul>
         <li>Python tooling, CLIs & automation scripts</li>
