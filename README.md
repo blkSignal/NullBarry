@@ -45,26 +45,56 @@
 
 ---
 
-<!-- SKILLS BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-222222.svg?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-4A5568.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scapy-9333EA.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Snort/Suricata-ef4444.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white"/>
-</p>
+## 🛠️ Skills & Tools
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bash-121011.svg?style=flat&logo=gnu-bash&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Networking</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=flat&logo=wireshark&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Nmap-4A5568.svg?style=flat"/>
+      <img src="https://img.shields.io/badge/Scapy-9333EA.svg?style=flat"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Security</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TryHackMe-212121?style=flat&logo=tryhackme&logoColor=red"/>
+      <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat&logo=hackthebox&logoColor=black"/>
+      <img src="https://img.shields.io/badge/IDS/IPS-Snort/Suricata-ef4444?style=flat"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Systems</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Windows-0078D6.svg?style=flat&logo=windows&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=flat&logo=github-actions&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<!-- FEATURED "CARDS" (EDIT LINKS AS YOU PUBLISH) -->
+## ⭐ Featured
 <table>
   <tr>
     <td>
       <h3>🧩 Ghoststack</h3>
-      <p>Phishing/email header analyzer with VirusTotal integration. Designed for clear signals (SPF/DKIM/ARC), tests & CI.</p>
+      <p>Phishing/email header analyzer with VirusTotal integration. Clear signals (SPF/DKIM/ARC), tests & CI.</p>
       <p>
         <a href="https://github.com/NullBarry/ghoststack"><img src="https://img.shields.io/badge/Repo-111827?style=flat&logo=github&logoColor=white"></a>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat">
@@ -74,10 +104,10 @@
   </tr>
   <tr>
     <td>
-      <h3>🌐 NetScope</h3>
-      <p>Packet analyzer (Scapy). Counts flows, flags anomalies (SYN floods, DNS tunneling), exports JSON.</p>
+      <h3>🌐 Packetline</h3>
+      <p>Network traffic analyzer (Scapy). Flow counts, anomaly hints (SYN floods, DNS tunneling), JSON export.</p>
       <p>
-        <a href="https://github.com/NullBarry/netscope"><img src="https://img.shields.io/badge/Repo-111827?style=flat&logo=github&logoColor=white"></a>
+        <a href="https://github.com/NullBarry/packetline"><img src="https://img.shields.io/badge/Repo-111827?style=flat&logo=github&logoColor=white"></a>
         <img src="https://img.shields.io/badge/Scapy-9333EA?style=flat">
         <img src="https://img.shields.io/badge/Network-0ea5e9?style=flat">
       </p>
@@ -97,9 +127,8 @@
 
 ---
 
-<!-- COLLAPSIBLE STATS (OPTIONAL—KEEP IF YOU LIKE) -->
 <details>
-  <summary><b>📊 GitHub Stats</b></summary>
+  <summary><b>📊 GitHub Stats (optional)</b></summary>
   <br/>
   <p align="center">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=NullBarry&show_icons=true&hide_title=true&hide_border=true" />
@@ -107,7 +136,7 @@
   </p>
 </details>
 
-<!-- FOOTER BANNER -->
+<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:10B981,100:2563EB&section=footer" />
 </p>
