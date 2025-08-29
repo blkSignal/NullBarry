@@ -84,7 +84,7 @@ My academic path blends technical problem-solving with an understanding of langu
   </tr>
   <tr>
     <td>
-      <h3> NetScope</h3>
+      <h3>Goliath Systems</h3>
       <p>Packet analyzer (Scapy). Tracks flows, detects anomalies (SYN floods, DNS tunneling), exports structured JSON reports.</p>
       <p>
         <a href="https://github.com/NullBarry/netscope"><img src="https://img.shields.io/badge/Repo-111827?style=flat&logo=github&logoColor=white"></a>
