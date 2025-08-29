@@ -14,7 +14,7 @@
 ---
 
 <!-- BIO -->
-I’m Chai Das, a Computer Science & Linguistics student at UCLA with a strong interest in **cybersecurity, software development, and networks**.  
+I’m Chai Das, a Computer Science & Linguistics student at UCLA with a strong interest in **cybersecurity, software development, and networks**. I have recently created a new github with projects and such items I was able to recover from my previous devices.   
 
 My academic path blends technical problem-solving with an understanding of language, systems, and structure—skills that I apply to building secure software and analyzing digital communication. Through labs, self-initiated projects, and CTF practice, I’m developing both the theoretical foundations and the hands-on experience needed for modern security and engineering roles.
 
