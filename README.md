@@ -1,6 +1,6 @@
 <!-- HERO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6EE7F9,100:9333EA&height=140&text=Chai%20Das%20%7C%20NullBarry&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=70&desc=Cybersecurity%20%E2%80%A2%20Software%20%E2%80%A2%20Networks&descAlign=50&descAlignY=95" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6EE7F9,100:9333EA&height=140&text=Chai%20Das%20%7C%20NullBarry&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=70&desc=Systems%20Engineering%20%E2%80%A2%20Software%20Engineering%20%E2%80%A2%20Test%20Engineering&descAlign=50&descAlignY=95" alt="banner"/>
 </p>
 
 <!-- QUICK LINKS -->
@@ -14,9 +14,9 @@
 ---
 
 <!-- BIO -->
-I’m Chai Das, a Computer Science & Linguistics student at UCLA with a strong interest in **cybersecurity, software development, and networks**. I have recently created a new github with projects and such items I was able to recover from my previous devices.   
+I'm Chai Das, a Computer Science & Linguistics student at UCLA with a strong passion for **systems engineering, software engineering, and test engineering**, with a particular interest in **aerospace, satellite systems, and space technology**. I also have a keen interest in **network cybersecurity** and secure system design. My focus is on developing robust, reliable systems with comprehensive testing and validation frameworks for mission-critical aerospace applications.
 
-My academic path blends technical problem-solving with an understanding of language, systems, and structure—skills that I apply to building secure software and analyzing digital communication. Through labs, self-initiated projects, and CTF practice, I’m developing both the theoretical foundations and the hands-on experience needed for modern security and engineering roles.
+My academic path blends technical problem-solving with an understanding of language, systems, and structure—skills that I apply to building scalable software systems and implementing rigorous testing methodologies for aerospace and satellite systems. Through self-initiated projects involving UAVs, CubeSats, and multi-sensor data fusion, I'm developing both the theoretical foundations and practical experience needed for modern aerospace systems and test engineering roles, with an emphasis on security and reliability.
 
 ---
 
@@ -24,30 +24,30 @@ My academic path blends technical problem-solving with an understanding of langu
 <table>
   <tr>
     <td width="33%">
-      <h3> Security</h3>
+      <h3> Aerospace Systems</h3>
       <ul>
-        <li>Network defense & packet analysis (Wireshark, Suricata)</li>
-        <li>Red ➜ Blue team workflows</li>
-        <li>CTFs (HTB, TryHackMe) & Security+ prep</li>
-        <li>Threat modeling & reporting</li>
+        <li>UAV & satellite system architecture</li>
+        <li>Real-time telemetry & mission control</li>
+        <li>Fault injection & anomaly detection</li>
+        <li>Space-grade reliability & fail-safe ops</li>
       </ul>
     </td>
     <td width="33%">
-      <h3> Software</h3>
+      <h3> Software Engineering</h3>
       <ul>
-        <li>Python tooling, CLIs & automation scripts</li>
-        <li>Bash scripting & Linux sysadmin workflows</li>
-        <li>CI/CD pipelines (GitHub Actions)</li>
-        <li>Data parsing & reporting systems</li>
+        <li>Python/C++ for aerospace applications</li>
+        <li>Multi-sensor data fusion & integration</li>
+        <li>CI/CD pipelines for space systems</li>
+        <li>Secure coding & network protocols</li>
       </ul>
     </td>
     <td width="33%">
-      <h3> Evidence</h3>
+      <h3> Test Engineering</h3>
       <ul>
-        <li>CTF writeups & solution guides</li>
-        <li>Blog posts on labs & projects</li>
-        <li>Packet flow diagrams & screenshots</li>
-        <li>Research notes & study guides</li>
+        <li>Requirements traceability for aerospace</li>
+        <li>Verification & validation (V&V)</li>
+        <li>Security testing & penetration testing</li>
+        <li>Space environment simulation</li>
       </ul>
     </td>
   </tr>
@@ -58,48 +58,64 @@ My academic path blends technical problem-solving with an understanding of langu
 <!-- SKILLS BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-222222.svg?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-4A5568.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scapy-9333EA.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Snort/Suricata-ef4444.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Aerospace-4A5568.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Satellites-9333EA.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-ef4444.svg?style=for-the-badge"/>
 </p>
 
 ---
 
-<!-- FEATURED "CARDS" -->
+<!-- FEATURED PROJECTS -->
 <table>
   <tr>
     <td>
-      <h3> Ghoststack</h3>
-      <p>Phishing/email header analyzer with VirusTotal integration. Extracts SPF/DKIM/ARC results, flags spoofing, and runs in CI.</p>
+      <h3>UAV Mission Control & Anomaly Detection Simulator</h3>
+      <p><strong>Los Angeles, CA | Self Initiated | Sept 2025 – Present</strong></p>
+      <ul>
+        <li>Developed a Python-based multi-agent telemetry dashboard simulating 10+ UAV subsystems, providing real-time anomaly detection and alerting</li>
+        <li>Implemented fault injection logic and validated 50+ simulated failure scenarios, improving system reliability and demonstrating fail-safe operation</li>
+        <li>Automated monitoring, logging, and reporting for system performance metrics, reducing manual oversight by 80% and supporting end-to-end system verification</li>
+      </ul>
       <p>
-        <a href="https://github.com/NullBarry/ghoststack"><img src="https://img.shields.io/badge/Repo-111827?style=flat&logo=github&logoColor=white"></a>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat">
-        <img src="https://img.shields.io/badge/CLI-0ea5e9?style=flat">
+        <img src="https://img.shields.io/badge/Telemetry-9333EA?style=flat">
+        <img src="https://img.shields.io/badge/Testing-ef4444?style=flat">
       </p>
     </td>
   </tr>
   <tr>
     <td>
-      <h3>Goliath Systems</h3>
-      <p>Packet analyzer (Scapy). Tracks flows, detects anomalies (SYN floods, DNS tunneling), exports structured JSON reports.</p>
+      <h3>CubeSat Telemetry Dashboard & Fault System</h3>
+      <p><strong>Los Angeles, CA | Self Initiated | Jun 2025 – Jul 2025</strong></p>
+      <ul>
+        <li>Engineered a real-time sensor telemetry system that processes 20+ concurrent streams, achieving 100% data consistency and traceability</li>
+        <li>Developed a requirements traceability matrix linking 120+ system specifications to test cases; generated automated reports for verification and validation (V&V)</li>
+        <li>Integrated CI/CD pipelines for continuous monitoring, reducing configuration and operational errors by 35% while enabling rapid deployment and testing</li>
+      </ul>
       <p>
-        <a href="https://github.com/NullBarry/netscope"><img src="https://img.shields.io/badge/Repo-111827?style=flat&logo=github&logoColor=white"></a>
-        <img src="https://img.shields.io/badge/Scapy-9333EA?style=flat">
-        <img src="https://img.shields.io/badge/Network-0ea5e9?style=flat">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat">
+        <img src="https://img.shields.io/badge/CI/CD-4A5568?style=flat">
+        <img src="https://img.shields.io/badge/V%26V-0ea5e9?style=flat">
       </p>
     </td>
   </tr>
   <tr>
     <td>
-      <h3> CTF Writeups</h3>
-      <p>Writeups for TryHackMe, HackTheBox, and picoCTF with mappings to Security+ domains and mitigation strategies.</p>
+      <h3>Multi-Sensor Data Fusion Simulator</h3>
+      <p><strong>Los Angeles, CA | Self Initiated | Apr 2024 – May 2024</strong></p>
+      <ul>
+        <li>Integrated a C++-based data fusion core for real-time aggregation of GPS, velocity, and sensor streams, reducing latency by 20%</li>
+        <li>Implemented robust error handling and data validation for corrupted or missing packets, achieving 100% test coverage during system verification</li>
+        <li>Simulated operational scenarios to assess reliability, maintainability, and fault tolerance, ensuring system robustness under varied conditions</li>
+      </ul>
       <p>
-        <a href="https://github.com/NullBarry/ctf-writeups"><img src="https://img.shields.io/badge/Repo-111827?style=flat&logo=github&logoColor=white"></a>
-        <a href="https://your-blog-url-here"><img src="https://img.shields.io/badge/Blog-2563EB?style=flat&logo=hashnode&logoColor=white"></a>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat">
+        <img src="https://img.shields.io/badge/Data%20Fusion-9333EA?style=flat">
+        <img src="https://img.shields.io/badge/Testing-ef4444?style=flat">
       </p>
     </td>
   </tr>
