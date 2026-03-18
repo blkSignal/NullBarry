@@ -14,9 +14,9 @@
 ---
 
 <!-- BIO -->
-I'm Chai Das, a Computer Science & Linguistics student at UCLA with a strong passion for **systems engineering, software engineering, and test engineering**, with a particular interest in **aerospace, satellite systems, and space technology**. I also have a keen interest in **network cybersecurity** and secure system design. My focus is on developing robust, reliable systems with comprehensive testing and validation frameworks for mission-critical aerospace applications.
+I'm Chai Das, a Computer Science & Linguistics student at UCLA with a strong passion for **systems engineering, software engineering, and test engineering**. I also have a keen interest in **network cybersecurity** and secure system design. My focus is on developing robust, reliable systems with comprehensive testing and validation frameworks for applications. 
 
-My academic path blends technical problem-solving with an understanding of language, systems, and structure—skills that I apply to building scalable software systems and implementing rigorous testing methodologies for aerospace and satellite systems. Through self-initiated projects involving UAVs, CubeSats, and multi-sensor data fusion, I'm developing both the theoretical foundations and practical experience needed for modern aerospace systems and test engineering roles, with an emphasis on security and reliability.
+My academic path blends technical problem-solving with an understanding of language, systems, and structure—skills that I apply to building scalable software systems and implementing rigorous testing methodologies.
 
 ---
 
